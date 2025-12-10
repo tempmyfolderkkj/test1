@@ -7,6 +7,7 @@ print(a)
 b = 3 + 5
 print(b)
 
-
+c = 'test'
+print(c)
 
 
